@@ -1,0 +1,83 @@
+.input-group{
+    border-radius: 10px;
+}
+
+.form-control
+{
+    text-align: center;
+    color: cyan;
+    padding-left: 10px;
+}
+.input-group-addon
+{
+    padding-right: 20px;
+}
+
+#user
+{
+    
+    border-radius: 10px;
+}
+#pass
+{
+   border-radius: 10px;
+}
+#email
+{
+    border-radius: 10px;
+}
+.bt-2
+{
+    position: relative;
+    left: 25px;
+}
+h2{
+    position: relative;
+    left: 30px;
+    font-weight: 700;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+ 
+}
+.row
+{
+    position: relative;
+    top: 0%;
+}
+.span
+{
+    font-size: 28px;
+    color: brown;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.container-fluid
+{
+    text-align: center;
+}
+h3
+{
+    color: rgb(157, 88, 202);
+}
+
+li{
+    right: 50px;
+    margin:  0  10px 0 10px;
+}
+.footer
+{
+    position: fixed;
+    background-color: rgb(30, 33, 37);
+    text-align: center;
+    color:rgb(186, 17, 228);
+    width:100%;
+    bottom: 0%;
+    padding: 10px;
+}
+#btn{
+    left:160px;
+}
+.aa
+{
+    color:white;
+}
