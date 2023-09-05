@@ -10,7 +10,7 @@ function ListOfEventsComponent() {
 
     useEffect(() => {
         // Make the API request
-        fetch('http://localhost:8084/api/v1/events/list')
+        fetch('http://3.85.75.142:8084/api/v1/events/list')
             .then(response => response.json())
             .then(data => {
                 setEvents(data); // Update state with API response data
